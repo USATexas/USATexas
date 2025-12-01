@@ -96,16 +96,6 @@ const aboutMe = {
 
 ---
 
-## 🎯 Цели на 2024
-
-- ✅ Изучить TypeScript на продвинутом уровне
-- ✅ Создать 5 Open Source проектов
-- 🔄 Получить сертификацию AWS
-- 🔄 Внести вклад в 10+ Open Source проектов
-- ⏳ Освоить Web3 и Blockchain разработку
-
----
-
 ## 💡 Цитата дня
 
 <div align="center">
@@ -117,23 +107,11 @@ const aboutMe = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/USATexas/USATexas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 📫 Связаться со мной
-
-<div align="center">
-  
-  💼 **Открыт для новых возможностей!**
-  
-  📧 Email: your.email@example.com  
-  💬 Telegram: [@yourusername](https://t.me/yourusername)  
-  🔗 LinkedIn: [Your Name](https://linkedin.com/in/username)  
-  🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-  
-</div>
 
 ---
 
