@@ -47,21 +47,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
----
-
-## 📈 Активность
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USATexas/USATexas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
