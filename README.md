@@ -13,34 +13,6 @@
 
 ---
 
-## 🚀 О себе
-
-```javascript
-const aboutMe = {
-    name: "Твоё Имя",
-    location: "Almaty, Kazakhstan 🇰🇿",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building awesome web applications",
-    funFact: "Я превращаю кофе в код ☕➡️💻"
-};
-```
-
----
-
 ## 💻 Технологии и инструменты
 
 <p align="center">
@@ -77,29 +49,10 @@ const aboutMe = {
 
 ---
 
-## 🔥 Последние проекты
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_1&theme=radical)](https://github.com/YOUR_USERNAME/PROJECT_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_2&theme=radical)](https://github.com/YOUR_USERNAME/PROJECT_NAME_2)
-
-</div>
-
----
-
 ## 📈 Активность
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 💡 Цитата дня
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
@@ -109,9 +62,6 @@ const aboutMe = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/USATexas/USATexas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
 
 ---
 
